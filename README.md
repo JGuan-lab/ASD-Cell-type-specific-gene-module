@@ -7,4 +7,5 @@ Specifically, for each cell type, a gene co-expression network is constructed. T
 To characterize the cell type heterogeneity of autism spectrum disorder (ASD), we applied cell type-specific gene network-based analysis and identified several cell type-specific ASD-associated gene modules. 
 
 The codes correspond to the following paper, where further details can be found:
+
 Guan J, Lin Y and Ji G (2020) Cell Type-Specific Gene Network-Based Analysis Depicts the Heterogeneity of Autism Spectrum Disorder. Front. Cell. Neurosci. 14:59. doi: 10.3389/fncel.2020.00059
